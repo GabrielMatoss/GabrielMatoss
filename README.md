@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielMatoss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
  
 <div align="center" style="display: inline_block"><br>
