@@ -2,8 +2,8 @@
 
 ##
 - Busco trabalhar como Dev Front-end Júnior.
-- Atualmente Estou estudando e me aprofundando em HTML, CSS e JS.
-- Planejo futuramente estudar React.js e TypeScript.
+- Atualmente estou estudando e me aprofundando em HTML, CSS e JS.
+- Futuramente planejo estudar React.js e TypeScript.
 
 
 <div align="center">
