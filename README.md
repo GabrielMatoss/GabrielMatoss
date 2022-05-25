@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Matos, Estudante de programação Front-End 👋😊
+### Olá eu sou o Gabriel Matos, Desenvolvedor Front-End 👋😊
 
 ##
 - Busco trabalhar como Dev Front-end Júnior.
