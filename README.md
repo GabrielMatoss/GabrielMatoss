@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6823c7&height=150&section=header" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6823C7&center=true&vCenter=true&width=1000&lines=+Olá!+Meu+nome+%C3%A9+Gabriel+Matos+Louren%C3%A7o;Sou+um+programador+Front-End" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&weight=500&pause=1000&color=6823C7&center=true&vCenter=true&width=1000&lines=+Olá!+Meu+nome+%C3%A9+Gabriel+Matos+Louren%C3%A7o;Sou+um+programador+Front-End" alt="Typing SVG" /></a>
 
 <div align="center">
  <img width="49%" height="180rem" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=6823C7&icon_color=6823C7&text_color=c9d1d9" alt="Gabriel Matos Stats"/>
