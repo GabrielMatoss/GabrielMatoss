@@ -17,3 +17,4 @@
     <img style="border-radius: 4px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6823c7&height=120&section=footer"/>
