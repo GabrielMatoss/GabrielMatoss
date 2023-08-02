@@ -9,6 +9,7 @@
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
 </div>
+<br />
 
 
 ## Sobre mim
