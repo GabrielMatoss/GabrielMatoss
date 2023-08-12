@@ -2,8 +2,8 @@
  <h2>Hello World! Meu nome é Gabriel Matos, e sou um Desenvolvedor Front-End 😁</h2>
 </div>
  <ul align="left">
-  <li>Atualmente Busco trabalhar como desenvolvedor Front-End.</li>
- <li>Atualmente estudando e me aprofundando React, Next e Typescript.</li>
+  <li>Busco trabalhar como desenvolvedor Front-End.</li>
+ <li>Estudando e me aprofundando em React, Next e Typescript.</li>
 </ul>
 
  <div align="center">
