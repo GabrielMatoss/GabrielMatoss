@@ -1,22 +1,17 @@
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&weight=500&pause=1000&color=F5F5FF&center=true&vCenter=true&width=1000&lines=+Olá!+Meu+nome+%C3%A9+Gabriel+Matos+Louren%C3%A7o;Sou+um+desenvolvedor+Front-End" alt="Typing SVG" />
-</a>
+<div align="center">
+ <h2>Hello World! Meu nome é Gabriel Matos, e sou um Desenvolvedor Front-End 😁</h2>
+</div>
+ <ul align="left">
+  <li>Atualmente Busco trabalhar como desenvolvedor Front-End.</li>
+ <li>Atualmente estudando e me aprofundando React, Next e Typescript.</li>
+</ul>
 
  <div align="center">
-  <br/>
   <br/>
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
 </div>
 <br />
-
-
-## Sobre mim
- 
-* Busco trabalhar como desenvolvedor Front-End.
-* Atualmente estudando e me aprofundando React, Next e Typescript.
- 
 
 <div align="left">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
