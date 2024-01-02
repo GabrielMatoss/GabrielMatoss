@@ -3,7 +3,7 @@
 </div>
  <ul align="left">
   <li>Busco trabalhar como desenvolvedor Front-End.</li>
- <li>Estudando e me aprofundando em React, Next e Typescript.</li>
+  <li>Estudando e me aprofundando em Nodejs para conseguir fazer aplicações mais completas.</li>
 </ul>
 
  <div align="center">
