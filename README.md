@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hello World! Meu nome é Gabriel Matos, e sou um Desenvolvedor Front-End 😁</h2>
+ <h2> Bem vindos(as)! Meu nome é Gabriel Matos, e sou um Desenvolvedor Front-End 😁</h2>
 </div>
  <ul align="left">
   <li>Busco trabalhar como desenvolvedor Front-End.</li>
@@ -31,5 +31,4 @@
  </div>
  <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMatoss&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
