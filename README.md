@@ -1,34 +1,42 @@
 <div align="center">
- <h2> Bem vindos(as)! Meu nome é Gabriel Matos, e sou um Desenvolvedor Front-End 😁</h2>
+ <h2>
+ <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+&nbsp;  Olá, Meu nome é Gabriel Matos! &nbsp;
+ <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+ </h2>
 </div>
- <ul align="left">
-  <li>Busco trabalhar como desenvolvedor Front-End.</li>
-  <li>Estudando e me aprofundando em Nodejs para criar aplicações mais completas.</li>
-</ul>
+  <img align="right" height="35" width="350" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+  
+ * Busco trabalhar como desenvolvedor Web.
+ * Estudando e me aprofundando em Nodejs para criar aplicações mais completas.
+</div>
 
- <div align="center">
-  <br/>
- <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
- <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
+
+<div align="center">
+
+ <br /> <br /> 
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
+ <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
 </div>
-<br />
+  
+## Linguagens e ferramentas 
 
 <div align="left">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+
+
 </div>
 
-## Redes Sociais
+## Redes sociais
 
 <div align="left"> 
-  <a style="text-decoration: none" href="mailto:matos.gabriel2013@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-    <a style="text-decoration: none" href="https://www.linkedin.com/in/gabriel-matos-lourenco/" target="_blank"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matos.gabriel2013@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-matos-lourenco/)
  </div>
- <br />
+
 
 
