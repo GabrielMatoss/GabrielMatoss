@@ -1,7 +1,6 @@
 <div align="center">
  <h2>
- <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
-&nbsp;Olá, Meu nome é Gabriel Matos! &nbsp;
+Olá, Meu nome é Gabriel Matos! &nbsp;
  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
  </h2>
 </div>
