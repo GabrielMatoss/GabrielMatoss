@@ -5,11 +5,9 @@ Olá, Meu nome é Gabriel Matos! &nbsp;
  </h2>
 </div>
  
-⚙ Busco trabalhar como Desenvolvedor Web.
-<br />
-📚 Estudando e me aprofundando em Nodejs para criar aplicações mais completas.
+- ⚙ Busco trabalhar como Desenvolvedor Web.
+- 📚 Estudando e me aprofundando em Nodejs para criar aplicações mais completas.
 </div>
-
 
 <div align="center">
 
