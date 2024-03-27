@@ -6,7 +6,7 @@ Olá, Meu nome é Gabriel Matos! &nbsp;
 </div>
  
 - ⚙ Desenvolvedor Web.
-- 📚 Estudando e me aprofundando em Nodejs para criar aplicações mais completas.
+- 📚 Atualmente estudando e me aprofundando no framework .NET.
 </div>
 
 <div align="center">
@@ -22,7 +22,8 @@ Olá, Meu nome é Gabriel Matos! &nbsp;
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-
+   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 </div>
 
