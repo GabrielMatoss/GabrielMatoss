@@ -6,16 +6,9 @@ Olá, Meu nome é Gabriel Matos! &nbsp;
 </div>
  
 - ⚙ Desenvolvedor Web.
-- 📚 Atualmente estudando e me aprofundando no framework .NET.
+- 📚 Atualmente estudando e me aprofundando no ecossistema do framework .NET.
 </div>
 
-<div align="center">
-
- <br /> <br /> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
- <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
-</div>
-  
 ## Linguagens e ferramentas 
 
 <div align="left">
@@ -24,9 +17,15 @@ Olá, Meu nome é Gabriel Matos! &nbsp;
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-
 </div>
 
+<div align="center">
+ 
+ <br /> <br /> 
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
+ <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=tokyonight&layout=compact&hide_border=false"/>
+</div>
+  
 ## Redes sociais
 
 <div align="left"> 
