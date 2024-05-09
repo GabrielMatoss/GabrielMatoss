@@ -6,8 +6,8 @@
  </h2>
 </div>
  
-- ⚙ Desenvolvedor Web.
-- 📚 Atualmente estudando e me aprofundando no ecossistema do framework .NET.
+- ⚙ Desenvolvedor Web Backend.
+- 📚 Estudando e me aprofundando no ecossistema do framework .NET.
 </div>
 
 ## Linguagens e ferramentas 
