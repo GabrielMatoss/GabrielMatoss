@@ -23,7 +23,7 @@
 <div align="center">
  
  <br /> <br /> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" alt="Gabriel Matos Stats"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" alt="Gabriel Matos Stats"/>
  <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=github_dark&layout=compact&hide_border=false"/>
 </div>
   
