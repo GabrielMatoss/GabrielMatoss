@@ -7,7 +7,7 @@
 </div>
  
 - ⚙ Desenvolvedor Web Backend.
-- 📚 Estudando e me aprofundando no ecossistema do framework .NET.
+- 📚 Atualmente aprofundando no ecossistema do framework .NET e em todo o fluxo de uma aplicação Backend.
 </div>
 
 ## Linguagens e ferramentas 
