@@ -5,6 +5,16 @@
  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
  </h2>
 </div>
+
+<div align="center">
+ 
+ <br /> <br /> 
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" alt="Gabriel Matos Stats"/>
+ <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=github_dark&layout=compact&hide_border=false"/>
+</div>
+
+
+
  
 - ⚙ Desenvolvedor Web Backend.
 - 📚 Atualmente me aprofundando no ecossistema do framework .NET e em todo o fluxo de uma aplicação Backend.
@@ -27,11 +37,6 @@
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-matos-lourenco/)
  </div>
  
-<div align="center">
- 
- <br /> <br /> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" alt="Gabriel Matos Stats"/>
- <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=github_dark&layout=compact&hide_border=false"/>
-</div>
+
 
 
