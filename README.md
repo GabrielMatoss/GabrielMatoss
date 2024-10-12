@@ -1,11 +1,12 @@
-<div align="center">
+<div align="left">
  <h2>
- <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
-&nbsp;Hello World, meu nome é Gabriel Matos!&nbsp;
- <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+Hi there!
  </h2>
 </div>
 
+- 📚 Atualmente me aprofundando na utilização do framework .NET e em todo o fluxo de uma aplicação Backend.
+- ⚙ Desenvolvedor Backend.
+  
 <div align="center">
  
  <br /> <br /> 
@@ -16,8 +17,6 @@
 
 
  
-- ⚙ Desenvolvedor Web Backend.
-- 📚 Atualmente me aprofundando no ecossistema do framework .NET e em todo o fluxo de uma aplicação Backend.
 </div>
 
 ## Linguagens e ferramentas 
@@ -25,7 +24,6 @@
 <div align="left">
    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
   
