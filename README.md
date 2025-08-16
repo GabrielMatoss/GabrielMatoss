@@ -4,7 +4,7 @@ Hi there!
  </h2>
 </div>
 
-- 📚 Atualmente me aprofundando na utilização do framework .NET e em todo o fluxo de uma aplicação Backend.
+- 📚 Atualmente me aprofundando nas tecnologias .Net, Java, Spring Boot, e em todo o fluxo de uma aplicação Backend.
 - ⚙ Desenvolvedor Backend.
   
 <div align="center">
