@@ -7,12 +7,12 @@ Hi there!
 - 📚 Atualmente me aprofundando nas tecnologias .Net, Java, Spring Boot, e em todo o fluxo de uma aplicação Backend.
 - ⚙ Desenvolvedor Backend.
   
-<div align="center">
+<!-- <div align="center">
  
  <br /> <br /> 
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" alt="Gabriel Matos Stats"/>
  <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=github_dark&layout=compact&hide_border=false"/>
-</div>
+</div> -->
 
 
 
