@@ -4,7 +4,7 @@ Hi there!
  </h2>
 </div>
 
-- 💻 Atualmente me aprofundando nas tecnologias .Net, Java, Spring Boot, e em todo o fluxo de uma aplicação Backend.
+- 💻 Atualmente me aprofundando nas tecnologias .Net, Java, Spring Boot e em todo ecossistema de Software.
 - ⚙️ Desenvolvedor Backend.
 - 📚 Ciência da Computação - FEI.
   
