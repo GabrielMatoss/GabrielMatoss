@@ -8,17 +8,7 @@ Hi there!
 - ⚙️ Desenvolvedor de Software Backend.
 - 📚 Ciência da Computação - FEI.
   
-<!-- <div align="center">
- 
- <br /> <br /> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=GabrielMatoss&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" alt="Gabriel Matos Stats"/>
- <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatoss&theme=github_dark&layout=compact&hide_border=false"/>
-</div> -->
 
-
-
- 
-</div>
 
 ## Linguagens e ferramentas 
 
@@ -38,5 +28,55 @@ Hi there!
  </div>
  
 
+<p data-importer="text" align="left">Hello World!!</p>
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/GabrielMatoss/GabrielMatoss/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/GabrielMatoss/GabrielMatoss/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMatoss/GabrielMatoss/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielMatoss/GabrielMatoss/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielMatoss/GabrielMatoss/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielMatoss.GabrielMatoss&right_color=blueviolet&left_text=visitantes"  />
+</div>
+
+###
 
