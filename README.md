@@ -5,7 +5,7 @@ Hello World!
 </div>
 
 - 💻 Atualmente me aprofundando nas tecnologias .Net, AspNet Core e em todo ecossistema de Software.
-- ⚙️ Desenvolvedor de Software Backend.
+- ⚙️ Desenvolvedor de Software.
 - 📚 Ciência da Computação - FEI.
   
 
